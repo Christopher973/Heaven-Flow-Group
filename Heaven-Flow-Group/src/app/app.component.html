@@ -1,0 +1,212 @@
+<header>
+
+  <nav class="bg-white dark:bg-gray-900 fixed w-full z-20 top-0 start-0">
+    <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
+      <!-- Brand Logo -->
+      <a href="https://flowbite.com/" class="flex items-center space-x-3 rtl:space-x-reverse">
+        <img src="https://flowbite.com/docs/images/logo.svg" class="h-8" alt="Flowbite Logo">
+      </a>
+      <!-- Hamburger Menu icon -->
+      <div class="flex md:order-2 space-x-3 md:space-x-0 rtl:space-x-reverse">
+
+        <button class="flex transition-transform hover:scale-125 align-middle" (click)="darkMode.set(!darkMode())">
+          <span *ngIf="!darkMode()"><img src="../assets/img/icon/darkmode.png" alt="darkmode icon" class="w-6"></span>
+          <span *ngIf="darkMode()"><img src="../assets/img/icon/lightmode.png" alt="lightmode icon" class="w-6"></span>
+        </button>
+
+        <button data-collapse-toggle="navbar-sticky" type="button"
+          class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600"
+          aria-controls="navbar-sticky" aria-expanded="false">
+          <span class="sr-only">Ouvrir le menu</span>
+          <svg class="w-5 h-5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 17 14">
+            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+              d="M1 1h15M1 7h15M1 13h15" />
+          </svg>
+        </button>
+      </div>
+      <!-- Navbar -->
+      <div class="items-center justify-between hidden w-full md:flex md:w-auto md:order-1" id="navbar-sticky">
+        <ul
+          class="flex flex-col p-4 md:p-0 mt-4 font-medium border border-gray-100 rounded-lg bg-gray-50 md:space-x-8 rtl:space-x-reverse md:flex-row md:mt-0 md:border-0 md:bg-white dark:bg-gray-800 md:dark:bg-gray-900 dark:border-gray-700">
+          <li>
+            <a href="#"
+              class="block py-2 px-3 text-white bg-blue-700 rounded md:bg-transparent md:text-blue-700 md:p-0 md:dark:text-blue-500"
+              aria-current="page">Accueil</a>
+          </li>
+          <li>
+            <a href="#"
+              class="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0 md:dark:hover:text-blue-500 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">Qui
+              sommes-nous</a>
+          </li>
+          <li>
+            <a href="#"
+              class="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0 md:dark:hover:text-blue-500 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">Nos
+              activités</a>
+          </li>
+          <li>
+            <a href="#"
+              class="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0 md:dark:hover:text-blue-500 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">L'équipe</a>
+          </li>
+          <li>
+            <a href="#"
+              class="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0 md:dark:hover:text-blue-500 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+</header>
+
+<main class="main">
+  <!-- Hero banner -->
+  <section class="bg-cover bg-center"
+    style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../assets/img/background/hero-banner.png'); background-attachment: fixed;">
+    <div class="px-4 mx-auto max-w-screen-xl text-center py-24 lg:py-56">
+      <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl">
+        Heaven Flow Group : Plus qu’une symphonie, une Symphonie d'Âmes
+      </h1>
+      <p class="mb-8 text-lg font-normal text-gray-300 lg:text-xl sm:px-16 lg:px-48">
+        Vibrez au rythme du gospel et de la danse urbaine avec Heaven Flow Group !
+        Plus qu'une association, un mouvement qui unit, inspire et transforme.
+        Rejoignez-nous et laissez votre esprit s'envoler !
+      </p>
+      <div class="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0">
+        <a href="#"
+          class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900">
+          Rejoignez-nous
+          <svg class="w-3.5 h-3.5 ms-2 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none"
+            viewBox="0 0 14 10">
+            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+              d="M1 5h12m0 0L9 1m4 4L9 9" />
+          </svg>
+        </a>
+        <a href="#"
+          class="inline-flex justify-center hover:text-gray-900 items-center py-3 px-5 sm:ms-4 text-base font-medium text-center text-white rounded-lg border border-white hover:bg-gray-100 focus:ring-4 focus:ring-gray-400">
+          En savoir plus
+        </a>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- Qui sommes-nous -->
+  <section class="bg-white dark:bg-gray-900">
+    <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 grid lg:grid-cols-2 gap-8 lg:gap-16">
+      <div class="flex flex-col justify-center">
+        <h1
+          class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white">
+          Qui sommes-nous ?
+        </h1>
+        <h2
+          class="mb-4 text-2xl font-extrabold tracking-tight leading-none text-gray-900 md:text-3xl lg:text-4xl dark:text-white">
+          Notre mission
+        </h2>
+        <p class="mb-8 text-lg font-normal text-gray-500 lg:text-xl dark:text-gray-400">
+          Promouvoir la musique gospel et les danses urbaines afin d'inspirer, d'engager et de rassembler les membres de
+          la communauté de Toulouse et ses environs. À travers nos événements, nos ateliers, nos programmes
+          communautaires et nos partenariats, nous visons à créer des opportunités d'expression artistique, d'éducation
+          culturelle et de connexion interpersonnelle. En mettant l'accent sur l'inclusion et le partage de valeurs
+          communes, nous cherchons à renforcer le tissu social de notre ville et à encourager un sentiment de fierté et
+          d'appartenance chez ses habitants.
+        </p>
+        <h2
+          class="mb-4 text-2xl font-extrabold tracking-tight leading-none text-gray-900 md:text-3xl lg:text-4xl dark:text-white">
+          Notre vision
+        </h2>
+        <p class="mb-8 text-lg font-normal text-gray-500 lg:text-xl dark:text-gray-400">
+          Redynamiser la ville de Toulouse et ses environs en devenant un catalyseur de changement positif à travers la
+          musique gospel et les danses urbaines. Nous aspirons à créer une communauté où l'expression artistique, la
+          diversité culturelle et l'inclusion sociale sont célébrées et valorisées, contribuant ainsi à un environnement
+          vibrant et inspirant pour tous.
+        </p>
+        <div class="flex flex-col space-y-4 sm:flex-row sm:space-y-0">
+          <a href="#"
+            class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900">
+            En savoir plus
+            <svg class="w-3.5 h-3.5 ms-2 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+              fill="none" viewBox="0 0 14 10">
+              <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M1 5h12m0 0L9 1m4 4L9 9" />
+            </svg>
+          </a>
+          <a href="#"
+            class="py-3 px-5 sm:ms-4 text-sm font-medium text-gray-900 focus:outline-none bg-white rounded-lg border border-gray-200 hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-100 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700">
+            Faire un Don
+          </a>
+        </div>
+      </div>
+      <div>
+        <img src="../assets/img/qui-sommes-nous-picture.png" alt="image de la section qui sommes-nous"
+          class="mx-auto w-full lg:max-w-xl h-64 rounded-lg sm:h-96 shadow-xl">
+      </div>
+    </div>
+  </section>
+
+
+  <!-- Nos activités -->
+  <section class="bg-white dark:bg-gray-900">
+    <div class="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16">
+      <h1
+        class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white">
+        Nos activités
+      </h1>
+      <p class="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 lg:px-48 dark:text-gray-400">
+        Éveillez vos talents et explorez votre créativité avec Heaven Flow Group
+      </p>
+      <div class="max-lg:grid grid-cols-1 md:grid-cols-2 lg:flex lg:flex-wrap justify-center gap-5">
+
+        <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+          <a href="#">
+            <img class="rounded-t-lg" src="../assets/img/nos-activites-picture1.png" alt="Première activités"
+              class="md:h-60 md:w-full" />
+          </a>
+          <div class="p-5">
+            <a href="#">
+              <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology
+                acquisitions 2021</h5>
+            </a>
+            <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology
+              acquisitions of 2021 so far, in reverse chronological order.</p>
+          </div>
+        </div>
+
+        <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+          <a href="#">
+            <img class="rounded-t-lg" src="../assets/img/nos-activites-picture2.png" alt="Deuxième activités"
+              class="md:h-60 md:w-full" />
+          </a>
+          <div class="p-5">
+            <a href="#">
+              <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology
+                acquisitions 2021</h5>
+            </a>
+            <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology
+              acquisitions of 2021 so far, in reverse chronological order.</p>
+          </div>
+        </div>
+
+        <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+          <a href="#">
+            <img class="rounded-t-lg" src="../assets/img/nos-activites-picture3.png" alt="Troisième activités"
+              class="md:h-60 md:w-full" />
+          </a>
+          <div class="p-5">
+            <a href="#">
+              <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology
+                acquisitions 2021</h5>
+            </a>
+            <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology
+              acquisitions of 2021 so far, in reverse chronological order.</p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer></footer>
+
+<router-outlet />
