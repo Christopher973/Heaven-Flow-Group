@@ -1,6 +1,6 @@
 import { Component, HostBinding, signal } from '@angular/core';
 import { initFlowbite } from 'flowbite';
-
+import AOS from 'aos';
 
 @Component({
   selector: 'app-root',
@@ -14,6 +14,10 @@ export class AppComponent {
 
   ngOnInit(): void {
     initFlowbite();
+    AOS.init({
+      duration: 1000,
+      once: true
+    });
   }
 
   @HostBinding('class.dark') get mode() {
