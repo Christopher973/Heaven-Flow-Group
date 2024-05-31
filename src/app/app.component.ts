@@ -12,6 +12,8 @@ export class AppComponent {
 
   darkMode = signal<boolean>(false)
 
+  currentYear: number = new Date().getFullYear();
+
   ngOnInit(): void {
     initFlowbite();
     AOS.init({
