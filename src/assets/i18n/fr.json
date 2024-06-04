@@ -1,0 +1,110 @@
+{
+  "header": {
+    "links1": "Accueil",
+    "links2": "Qui sommes-nous",
+    "links3": "Notre adn",
+    "links4": "Nos activités",
+    "links5": "Nos événements",
+    "links6": "L'équipe",
+    "links7": "Témoignages",
+    "links8": "Contact",
+
+    "language1": "Anglais (US)",
+    "language2": "Français (FR)"
+  },
+
+  "hero-banner": {
+    "title": "Heaven Flow Group : Plus qu’une symphonie, une Symphonie d'Âmes",
+    "text": "Vibrez au rythme du gospel et de la danse urbaine avec Heaven Flow Group ! Plus qu'une association, un mouvement qui unit, inspire et transforme. Rejoignez-nous et laissez votre esprit s'envoler !",
+
+    "btn1": "Rejoignez-nous",
+    "btn2": "En savoir plus",
+
+    "modal-title": "Qu'est-ce-que Heaven Flow Group",
+    "modal-text": "L'organisation utilise la musique gospel et les danses urbaines pour rassembler la communauté de Toulouse, organiser des événements et des ateliers, promouvoir l'expression artistique, la diversité culturelle et l'inclusion sociale, et ainsi créer un environnement vibrant et inspirant pour tous."
+  },
+
+  "qui-sommes-nous": {
+    "title": "Qui sommes-nous ?",
+
+    "subtitle1": "Notre mission",
+    "subtitle2": "Notre vision",
+
+    "text1": "Promouvoir la musique gospel et les danses urbaines afin d'inspirer, d'engager et de rassembler les membres de la communauté de Toulouse et ses environs. À travers nos événements, nos ateliers, nos programmes communautaires et nos partenariats, nous visons à créer des opportunités d'expression artistique, d'éducation culturelle et de connexion interpersonnelle. En mettant l'accent sur l'inclusion et le partage de valeurs communes, nous cherchons à renforcer le tissu social de notre ville et à encourager un sentiment de fierté et d'appartenance chez ses habitants.",
+    "text2": "Redynamiser la ville de Toulouse et ses environs en devenant un catalyseur de changement positif à travers la musique gospel et les danses urbaines. Nous aspirons à créer une communauté où l'expression artistique, la diversité culturelle et l'inclusion sociale sont célébrées et valorisées, contribuant ainsi à un environnement vibrant et inspirant pour tous.",
+
+    "btn1": "En savoir plus",
+    "btn2": "Faire un Don"
+  },
+
+  "adn": {
+    "title": "Notre ADN",
+
+    "subtitle": "Éveillez vos talents et explorez votre créativité avec Heaven Flow Group",
+
+    "card-title1": "La foi",
+    "card-title2": "La diversité",
+    "card-title3": "L'inclusion",
+    "card-title4": "Le vivre ensemble",
+    "card-title5": "Engagement communautaire",
+    "card-title6": "La collaboration",
+
+    "card-text1": "Nous croyons en l'importance de la foi en Dieu comme source d'inspiration, de force et de guidance. Nous reconnaissons la présence de Dieu dans nos vies et dans notre travail, et nous nous engageons à agir en accord avec Ses enseignements de compassion, d'amour et de justice. Notre foi en Dieu nous guide dans nos actions et nous inspire à servir notre communauté avec humilité et dévouement.",
+    "card-text2": "Nous croyons en la force de la diversité et en la richesse qu'elle apporte à notre communauté. Nous accueillons et célébrons les différences de culture, de background et d'expression, reconnaissant que c'est dans la diversité que réside notre véritable force.",
+    "card-text3": "Nous nous engageons à créer un environnement accueillant et inclusif où chaque individu se sent valorisé et respecté. Nous œuvrons pour briser les barrières sociales et encourager la participation de tous, quel que soit leur âge, leur genre, leur origine ethnique ou leurs capacités.",
+    "card-text4": "Nous croyons en l'importance de vivre ensemble harmonieusement dans notre communauté. Nous valorisons la coopération, le respect mutuel et la compréhension entre les individus de tous horizons. Nous nous engageons à créer un environnement où chacun se sent chez lui, où les différences sont célébrées et où la diversité est considérée comme une richesse. En favorisant le vivre ensemble, nous contribuons à construire une société plus juste, inclusive et solidaire où chacun peut s'épanouir pleinement",
+    "card-text5": "Nous sommes déterminés à jouer un rôle actif dans notre communauté et à contribuer à son bien-être. Nous nous engageons à soutenir les initiatives locales, à promouvoir la solidarité et à œuvrer pour un changement positif au niveau social et culturel.",
+    "card-text6": "Nous croyons en la force de la diversité et en la richesse qu'elle apporte à notre communauté. Nous accueillons et célébrons les différences de culture, de background et d'expression, reconnaissant que c'est dans la diversité que réside notre véritable force."
+  },
+
+  "activities": {
+    "title": "Nos activités",
+
+    "subtitle": "Éveillez vos talents et explorez votre créativité avec Heaven Flow Group",
+
+    "text": "Plongez dans un univers d'expression artistique et de développement personnel avec Heaven Flow Group ! Que vous soyez passionné de musique, de danse, d'arts plastiques ou que vous souhaitiez améliorer vos compétences en communication et en gestion de conflits, nos ateliers et formations vous offrent une multitude d'opportunités pour vous épanouir et contribuer à l'effervescence de notre communauté.",
+    "span-text": "Découvrez un éventail d'activités passionnantes :",
+
+    "card-title1": "Coaching Vocal",
+    "card-title2": "Atelier d'instrument",
+    "card-title3": "Atelier de choregaraphie",
+    "card-title4": "Art Plastique",
+    "card-title5": "Atelier Gestion de Conflit",
+    "card-title6": "Coaching Design & Graphisme",
+
+    "card-text1": "Les ateliers et formations de chant sont conçus pour aider les participants à développer leur voix et leur talent musical. Que ce soit pour chanter en solo, en chœur ou en groupe, nos sessions offrent une approche et un coaching complet de l'art vocal, comprenant la technique vocale, l'interprétation, la théorie musicale et plus encore.",
+    "card-text2": "Nos ateliers d'instruments musicaux offrent une formation pratique sur plusieurs instruments, dont le piano, la guitare, la guitare basse, la batterie et la guitare électrique. Que vous soyez débutant ou musicien avancé, nos instructeurs qualifiés vous guideront pour améliorer votre technique et votre compréhension musicale. Ces ateliers sont conçus pour inspirer et encourager les participants à explorer leur potentiel musical.",
+    "card-text3": "Nos ateliers et formations de danse offrent aux participants l'opportunité d'apprendre et de perfectionner leurs compétences dans une variété de styles de danse urbaine. Encadrés par des professionnels expérimentés, ces sessions dynamiques sont ouvertes à tous les niveaux, du débutant à l'avancé.",
+    "card-text4": "Nos ateliers de l'expression artistique proposent une exploration créative à travers une variété de disciplines artistiques, y compris la peinture, le dessin, le graffiti et les caricatures. Ces sessions sont ouvertes à tous, des débutants aux artistes expérimentés, et offrent un espace sûr et inspirant pour exprimer sa créativité et son individualité.",
+    "card-text5": "Nos ateliers de gestion de conflit sont conçus pour aider les participants à développer des compétences en résolution de conflits et en communication efficace. En apprenant des techniques de médiation, de négociation et de gestion du stress, les participants sont mieux équipés pour gérer les situations conflictuelles de manière constructive et respectueuse. Ces ateliers sont particulièrement utiles pour renforcer la cohésion et l'harmonie au sein de la communauté.",
+    "card-text6": "Nos sessions de coaching en design graphique sont destinées à ceux qui souhaitent acquérir ou améliorer leurs compétences dans ce domaine. Encadrées par des professionnels du design, ces sessions couvrent les bases du design graphique, les outils logiciels essentiels et les techniques de création visuelle. Les participants apprennent à réaliser des projets graphiques de haute qualité, qu'ils pourront utiliser dans des contextes professionnels ou personnels."
+  },
+
+  "events": {
+    "title": "Nos événements",
+
+    "text": "Plongez dans un univers d'expression artistique et de développement personnel avec Heaven Flow Group ! Que vous soyez passionné de musique, de danse, d'arts plastiques ou que vous souhaitiez améliorer vos compétences en communication et en gestion de conflits, nos ateliers et formations vous offrent une multitude d'opportunités pour vous épanouir et contribuer à l'effervescence de notre communauté.",
+    "span-text": "Découvrez un éventail d'activités passionnantes :",
+
+    "carousel-title1": "Heaven Flow Festivals",
+    "carousel-title2": "Heaven Praise Contest",
+    "carousel-title3": "Heaven Flow Awards",
+    "carousel-title4": "Impact The City",
+    "carousel-title5": "Heaven Sense",
+    "carousel-title6": "Gala de Charité",
+
+    "carousel-text1": "Festival de gospel urbain, c'est aussi un rendez-vous annuel incontournable pour les amateurs de musique gospel et les passionnés de culture urbaine. Ce festival offre une programmation diversifiée de concerts, de spectacles de danse, d'ateliers et d'activités interactives pour toute la famille. Il est conçu pour célébrer la joie, la foi et la diversité à travers la musique et la danse, tout en encourageant la participation communautaire et l'échange interculturel.",
+    "carousel-text2": "Le Heaven Music Award est notre événement phare qui célèbre l'excellence dans la musique gospel et les danses urbaines. Chaque année, nous accueillons des artistes talentueux, des chorales inspirantes et des danseurs passionnés pour une nuit de performances dynamiques et inspirantes. Cet événement est une occasion de mettre en lumière les artistes émergents et de célébrer la puissance de la musique gospel pour inspirer et unir les communautés.",
+    "carousel-text3": "Concours annuel mettant en lumière le talent des chorales et des groupes musicaux de la région. Les participants ont l'opportunité de présenter leurs performances vocales et instrumentales devant un jury d'experts de l'industrie musicale. Ce concours vise à découvrir de nouveaux talents, à encourager la créativité et à promouvoir la musique gospel dans la communauté locale. Les chorales et les groupes musicaux participants bénéficient souvent d'opportunités de visibilité et de réseautage, les aidant à développer leur réputation et leur audience dans la région.",
+    "carousel-text4": "Impact the City est une initiative spéciale de Heaven Flow Group visant à mobiliser les membres de la communauté pour des actions bénévoles et des projets d'impact social. Cet évènement implique des partenariats avec des organisations locales, des nettoyages de quartier, des distributions alimentaires, des collectes de fonds pour des causes sociales, et d'autres actions visant à améliorer la qualité de vie des habitants de Toulouse et de ses environs. Impact the City incarne l'engagement de Heaven Flow Group envers le service communautaire et la transformation sociale positive.",
+    "carousel-text5": "Programme novateur lancé par Heaven Flow Group qui vise à sensibiliser la communauté aux dangers des réseaux sociaux, à la sécurité numérique, aux problématiques sociales et aux violences. Ce programme comprend des séances d'information et de sensibilisation sur les risques liés à l'utilisation des réseaux sociaux, des ateliers sur la sécurité numérique pour prévenir la cybercriminalité, des actions de sensibilisation aux enjeux sociaux tels que l'intimidation et la discrimination, ainsi que des sessions de formation sur la prévention des violences. Heaven Sense s'inscrit dans l'engagement de Heaven Flow Group à promouvoir la sécurité, le bien-être et le respect au sein de la communauté, en éduquant et en outillant les membres sur ces questions cruciales.",
+    "carousel-text6": "Evénement annuel organisé par Heaven Flow Group, visant à lever des fonds pour des causes sociales et humanitaires. Ce gala offre une soirée élégante et divertissante, comprenant des performances artistiques, des discours inspirants, des enchères silencieuses et des activités de collecte de fonds. Les bénéfices de cet événement sont ensuite reversés à des associations caritatives locales ou à des projets communautaires visant à soutenir les personnes dans le besoin. Le Gala de Charité est l'occasion pour la communauté de se rassembler, de soutenir des causes nobles et de faire une réelle différence dans la vie des autres.",
+
+    "carousel-btn1": "En savoir plus",
+    "carousel-btn2": "En savoir plus",
+    "carousel-btn3": "En savoir plus",
+    "carousel-btn4": "En savoir plus",
+    "carousel-btn5": "En savoir plus",
+    "carousel-btn6": "En savoir plus"
+  }
+}

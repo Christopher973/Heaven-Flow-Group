@@ -1,0 +1,110 @@
+{
+  "header": {
+    "links1": "Home",
+    "links2": "Who are we",
+    "links3": "Our dna",
+    "links4": "our activities",
+    "links5": "Our events",
+    "links6": "Our Team",
+    "links7": "Testimonials",
+    "links8": "Contact",
+
+    "language1": "English (US)",
+    "language2": "French (FR)"
+  },
+
+  "hero-banner": {
+    "title": "Heaven Flow Group: More than a symphony, a Symphony of Souls",
+    "text": "Vibrate to the rhythm of gospel and urban dance with Heaven Flow Group! More than an association, a movement that unites, inspires and transforms. Join us and let your spirit soar !",
+
+    "btn1": "Join us",
+    "btn2": "Learn more",
+
+    "modal-title": "What is Heaven Flow Group",
+    "modal-text": "The organization uses gospel music and urban dances to bring together the Toulouse community, organize events and workshops, promote artistic expression, cultural diversity and social inclusion, and thus create a vibrant and inspiring environment for all."
+  },
+
+  "qui-sommes-nous": {
+    "title": "Who are we ?",
+
+    "subtitle1": "Our mission",
+    "subtitle2": "Our vision",
+
+    "text1": "Promote gospel music and urban dances in order to inspire, engage and bring together members of the Toulouse community and surrounding areas. Through our events, workshops, community programs and partnerships, we aim to create opportunities for artistic expression, cultural education and interpersonal connection. By emphasizing inclusion and sharing common values, we seek to strengthen the social fabric of our city and encourage a sense of pride and belonging among its residents.",
+    "text2": "Revitalize the city of Toulouse and its surroundings by becoming a catalyst for positive change through gospel music and urban dances. We aspire to create a community where artistic expression, cultural diversity and social inclusion are celebrated and valued, contributing to a vibrant and inspiring environment for all.",
+
+    "btn1": "Learn more",
+    "btn2": "Make a donation"
+  },
+
+  "adn": {
+    "title": "Our DNA",
+
+    "subtitle": "Awaken your talents and explore your creativity with Heaven Flow Group",
+
+    "card-title1": "The faith",
+    "card-title2": "The diversity",
+    "card-title3": "Inclusion",
+    "card-title4": "living it together",
+    "card-title5": "Community engagement",
+    "card-title6": "The collaboration",
+
+    "card-text1": "We believe in the importance of faith in God as a source of inspiration, strength and guidance. We recognize God's presence in our lives and in our work, and we commit to acting in accordance with His teachings of compassion, love and justice. Our faith in God guides us in our actions and inspires us to serve our community with humility and dedication.",
+    "card-text2": "We believe in the strength of diversity and the richness it brings to our community. We welcome and celebrate differences in culture, background and expression, recognizing that it is in diversity that our true strength lies.",
+    "card-text3": "We are committed to creating a welcoming and inclusive environment where every individual feels valued and respected. We work to break down social barriers and encourage participation by all, regardless of age, gender, ethnicity or ability.",
+    "card-text4": "We believe in the importance of living together harmoniously in our community. We value cooperation, mutual respect and understanding among individuals from all backgrounds. We are committed to creating an environment where everyone feels at home, where differences are celebrated and diversity is considered an asset. By promoting living together, we contribute to building a more just, inclusive and supportive society where everyone can fully flourish.",
+    "card-text5": "We are committed to playing an active role in our community and contributing to its well-being. We are committed to supporting local initiatives, promoting solidarity and working for positive change at a social and cultural level.",
+    "card-text6": "We believe in the strength of diversity and the richness it brings to our community. We welcome and celebrate differences in culture, background and expression, recognizing that it is in diversity that our true strength lies."
+  },
+
+  "activities": {
+    "title": "Our activities",
+
+    "subtitle": "Awaken your talents and explore your creativity with Heaven Flow Group",
+
+    "text": "Immerse yourself in a world of artistic expression and personal development with Heaven Flow Group! Whether you are passionate about music, dance, visual arts or want to improve your communication and conflict management skills, our workshops and training offer you a multitude of opportunities to flourish and contribute to the excitement of our community.",
+    "span-text": "Discover a range of exciting activities :",
+
+    "card-title1": "Vocal Coaching",
+    "card-title2": "Instrument workshop",
+    "card-title3": "Choregaraphy workshop",
+    "card-title4": "Plastic Art",
+    "card-title5": "Conflict Management Workshop",
+    "card-title6": "Design & Graphics Coaching",
+
+    "card-text1": "Singing workshops and training are designed to help participants develop their voice and musical talent. Whether singing solo, in choir or in a group, our sessions offer a comprehensive approach and coaching to vocal artistry, including vocal technique, interpretation, music theory and more.",
+    "card-text2": "Our musical instrument workshops provide hands-on training on several instruments, including piano, guitar, bass guitar, drums and electric guitar. Whether you are a beginner or an advanced musician, our qualified instructors will guide you to improve your technique and musical understanding. These workshops are designed to inspire and encourage participants to explore their musical potential.",
+    "card-text3": "Our dance workshops and trainings offer participants the opportunity to learn and perfect their skills in a variety of urban dance styles. Led by experienced professionals, these dynamic sessions are open to all levels, from beginner to advanced.",
+    "card-text4": "Our Artistic Expression Workshops offer creative exploration across a variety of artistic disciplines including painting, drawing, graffiti and caricatures. These sessions are open to everyone from beginners to experienced artists and provide a safe and inspiring space to express one’s creativity and individuality.",
+    "card-text5": "Our Conflict Management Workshops are designed to help participants develop conflict resolution and effective communication skills. By learning mediation, negotiation and stress management techniques, participants are better equipped to handle conflict situations in a constructive and respectful manner. These workshops are particularly useful for building cohesion and harmony within the community.",
+    "card-text6": "Our graphic design coaching sessions are designed for those who want to acquire or improve their skills in this field. Led by design professionals, these sessions cover the basics of graphic design, essential software tools and visual creation techniques. Participants learn how to produce high-quality graphic projects that they can use in professional or personal contexts."
+  },
+
+  "events": {
+    "title": "Our events",
+
+    "text": "Dive into a world of artistic expression and personal development with Heaven Flow Group! Whether you are passionate about music, dance, visual arts or want to improve your communication and conflict management skills, our workshops and trainings offer you a multitude of opportunities to flourish and contribute to the excitement of our community.",
+    "span-text": "Discover a range of exciting activities :",
+
+    "carousel-title1": "Heaven Flow Festivals",
+    "carousel-title2": "Heaven Praise Contest",
+    "carousel-title3": "Heaven Flow Awards",
+    "carousel-title4": "Impact The City",
+    "carousel-title5": "Heaven Sense",
+    "carousel-title6": "Charity gala",
+
+    "carousel-text1": "Urban Gospel Festival is also an annual must-attend event for gospel music lovers and urban culture enthusiasts. This festival offers a diverse program of concerts, dance performances, workshops and interactive activities for the whole family. It is designed to celebrate joy, faith and diversity through music and dance, while encouraging community participation and intercultural exchange.",
+    "carousel-text2": "The Heaven Music Award is our flagship event that celebrates excellence in gospel music and urban dance. Each year, we welcome talented artists, inspiring choirs and passionate dancers for a night of dynamic and inspiring performances. This event is an opportunity to shine the spotlight on emerging artists and celebrate the power of gospel music to inspire and unite communities.",
+    "carousel-text3": "Annual competition showcasing the talent of local choirs and musical groups. Participants have the opportunity to showcase their vocal and instrumental performances in front of a panel of music industry experts. The competition aims to discover new talent, encourage creativity and promote gospel music in the local community. Participating choirs and musical groups often benefit from exposure and networking opportunities, helping them develop their reputation and audience in the local area.",
+    "carousel-text4": "Impact the City is a special initiative of Heaven Flow Group to mobilize community members for volunteer work and social impact projects. This event involves partnerships with local organizations, neighborhood cleanups, food distributions, fundraising for social causes, and other actions aimed at improving the quality of life for the residents of Toulouse and its surrounding areas. Impact the City embodies Heaven Flow Group’s commitment to community service and positive social transformation.",
+    "carousel-text5": "An innovative program launched by Heaven Flow Group that aims to raise awareness in the community about the dangers of social media, digital security, social issues and violence. This program includes information and awareness sessions on the risks associated with the use of social media, workshops on digital security to prevent cybercrime, awareness-raising activities on social issues such as bullying and discrimination, as well as training sessions on violence prevention. Heaven Sense is part of Heaven Flow Group's commitment to promoting safety, well-being and respect within the community, by educating and equipping members on these crucial issues.",
+    "carousel-text6": "An annual event organized by Heaven Flow Group, aimed at raising funds for social and humanitarian causes. This gala offers an elegant and entertaining evening, including artistic performances, inspiring speeches, silent auctions and fundraising activities. Proceeds from this event are then donated to local charities or community projects aimed at supporting those in need. The Charity Gala is an opportunity for the community to come together, support worthy causes and make a real difference in the lives of others.",
+
+    "carousel-btn1": "Learn more",
+    "carousel-btn2": "Learn more",
+    "carousel-btn3": "Learn more",
+    "carousel-btn4": "Learn more",
+    "carousel-btn5": "Learn more",
+    "carousel-btn6": "Learn more"
+  }
+}
