@@ -106,5 +106,30 @@
     "carousel-btn4": "Learn more",
     "carousel-btn5": "Learn more",
     "carousel-btn6": "Learn more"
+  },
+
+  "team": {
+    "title": "Our Team",
+
+    "subtitle": "A group of young dynamic executives",
+
+    "member-job1": "Wilfreid AGBO",
+    "member-job2": "Cyrielle MOUENZI",
+    "member-job3": "Michelle FEAT",
+    "member-job4": "Glenn MICHAEL",
+    "member-job5": "Tracy YALA",
+    "member-job6": "Grace MENGUE",
+
+    "member-bio1": "Dedicated and passionate President of Heaven Flow Group, he breathes new energy into the Toulouse community by combining his expertise as a computer engineer with his love for gospel music and urban dances. Driven by an unwavering spirit of service, he puts his skills and passion at the service of the members of the association, inspiring, guiding and supporting them in their personal and artistic development. His unwavering commitment to culture and social inclusion makes him a true pillar of the community, working tirelessly for a future where art and social cohesion punctuate the daily life of Toulouse.",
+    "member-bio2": "Secretary of Heaven Flow Group, she is an International Business Engineer with an unwavering passion for gospel and urban dances. A lover of music and culture, she brings to the association valuable management expertise and contagious energy. Her dedication and enthusiasm are essential drivers for the success of Heaven Flow Group's projects, inspiring the community to embrace art and cultural diversity.",
+    "member-bio3": "Treasurer of the association Heaven Flow Group, is a Cybersecurity Engineer whose fascination for gospel music and its dances brings a unique touch to our team. Captivated by the power and beauty of this music, Michelle combines rigor and passion to precisely manage the association's finances. Her technical expertise and love for the arts create a perfect synergy, making her a valuable asset in our mission to revitalize Toulouse through gospel music and urban dances.",
+    "member-bio4": "Music Coach of Heaven Flow Group, is a talented musician and an Accounting Engineer. With a deeply pedagogical spirit, he combines his mastery of numbers with his passion for music to offer enriching and precise training sessions. His ability to guide budding musicians through the complexities of gospel music and stage performance is unmatched. In Glenn, Heaven Flow members find not only a mentor, but a role model of passion and discipline, essential to excelling in the musical art.",
+    "member-bio5": "Head of Communications for Heaven Flow Group, she is a brilliant and dynamic Communications Engineer. Passionate about gospel and urban dance, Tracy uses her communication skills to build strong connections with the community and promote the association's initiatives. Her energy and enthusiasm are palpable, making her a true ambassador of our values ​​and a source of inspiration to all who cross her path.",
+    "member-bio6": "Dance Coach at Heaven Flow Group, is a Culinary Arts Engineer who brings her attention to detail and her pedagogical spirit to the teaching of dance. Her ability to marry technical precision with creative expression makes her an outstanding instructor. Passionate about movement that tells stories, Grace teaches with a patience and precision that inspires her students to excel in both technique and self-expression. Her classes are a visual feast, where each dance step is as refined and well-orchestrated as a dish at a fine restaurant."
+  },
+
+  "testimonials": {
+    "title": "Testimonials",
+    "subtitle": "what people think about us"
   }
 }
