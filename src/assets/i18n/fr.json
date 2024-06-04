@@ -131,5 +131,21 @@
   "testimonials": {
     "title": "Témoignages",
     "subtitle": "ce que les gens pensent de nous"
+  },
+
+  "contact": {
+    "title": "Nous contacter",
+
+    "surname": "Nom de famille",
+    "name": "Prénom",
+    "phone": "Numéro de téléphone",
+    "email": "Adresse E-mail",
+    "subject1": "Sujet",
+    "subject2": "Comment pouvons-nous vous aider ?",
+    "message1": "Votre message",
+    "message2": "Laisser un message...",
+    "contact-terms": "J'accepte les",
+    "contact-terms-links": "termes et les conditions.",
+    "btn": "Envoyer"
   }
 }

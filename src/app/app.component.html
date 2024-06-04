@@ -713,10 +713,10 @@
         <div class="mx-auto mb-8 max-w-screen-sm lg:mb-16">
           <h2 data-aos="fade-right"
             class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white">
-            {{'teams.title' | translate}}
+            {{'team.title' | translate}}
           </h2>
           <p data-aos="fade-right" data-aos-delay="300" class="font-light text-gray-500 sm:text-xl dark:text-gray-400">
-            {{'teams.subtitle' | translate}}
+            {{'team.subtitle' | translate}}
 
           </p>
         </div>
@@ -1124,7 +1124,7 @@
       <div class="pt-8 px-4 mx-auto max-w-screen-xl text-center">
         <h1 data-aos="fade-right"
           class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white">
-          Nous contacter
+          {{'contact.title' | translate}}
         </h1>
       </div>
 
@@ -1133,7 +1133,7 @@
           <div class="grid gap-6 mb-6 md:grid-cols-2">
             <div>
               <label for="first_name" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">
-                Nom de famille
+                {{'contact.surname' | translate}}
               </label>
               <input type="text" id="first_name"
                 class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
@@ -1142,7 +1142,7 @@
 
             <div>
               <label for="last_name" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">
-                Prénom
+                {{'contact.name' | translate}}
               </label>
               <input type="text" id="last_name"
                 class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
@@ -1150,8 +1150,9 @@
             </div>
 
             <div>
-              <label for="phone" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Phone
-                number</label>
+              <label for="phone" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">
+                {{'contact.phone' | translate}}
+              </label>
               <input type="tel" id="phone"
                 class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
                 placeholder="0794863613" pattern="[0-9]{10}" required />
@@ -1159,7 +1160,7 @@
 
             <div>
               <label for="visitors" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">
-                Adresse E-mail
+                {{'contact.email' | translate}}
               </label>
               <input type="email" id="email"
                 class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
@@ -1168,20 +1169,27 @@
           </div>
 
           <div class="mb-6">
-            <label for="subject" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Sujet</label>
+            <label for="subject" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">
+              {{'contact.subject1' | translate}}
+
+            </label>
 
             <input type="text" id="subject"
               class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
-              placeholder="Comment pouvons-nous vous aider ?" required />
+              placeholder="{{'contact.subject2' | translate}}
+              " required />
           </div>
 
           <div class="mb-6">
-            <label for="subject" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Votre
-              message</label>
+            <label for="subject" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">
+              {{'contact.message1' | translate}}
+
+            </label>
 
             <textarea id="message" rows="6"
               class="block p-2.5 w-full text-sm text-gray-900 bg-gray-50 rounded-lg shadow-sm border border-gray-300 focus:ring-primary-500 focus:border-primary-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500"
-              placeholder="Leave a comment..."></textarea>
+              placeholder="{{'contact.message2' | translate}}
+              "></textarea>
           </div>
 
           <div class="flex items-start mb-6">
@@ -1190,12 +1198,19 @@
                 class="w-4 h-4 border border-gray-300 rounded bg-gray-50 focus:ring-3 focus:ring-blue-300 dark:bg-gray-700 dark:border-gray-600 dark:focus:ring-blue-600 dark:ring-offset-gray-800"
                 required />
             </div>
-            <label for="remember" class="ms-2 text-sm font-medium text-gray-900 dark:text-gray-300">J'accepte les <a
-                href="#" class="text-blue-600 hover:underline dark:text-blue-500">termes et les conditions</a>.</label>
+            <label for="remember" class="ms-2 text-sm font-medium text-gray-900 dark:text-gray-300">
+              {{'contact.contact-terms' | translate}}
+              <a href="#" class="text-blue-600 hover:underline dark:text-blue-500">
+                {{'contact.contact-terms-links' | translate}}
+
+              </a></label>
           </div>
 
           <button type="submit"
-            class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm w-full sm:w-auto px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Envoyé</button>
+            class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm w-full sm:w-auto px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+            {{'contact.btn' | translate}}
+
+          </button>
         </form>
 
       </div>
