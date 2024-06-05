@@ -147,5 +147,23 @@
     "contact-terms": "I accept the",
     "contact-terms-links": "terms and conditions.",
     "contact-btn": "Send"
+  },
+
+  "partners": {
+    "title": "Our partners",
+    "subtitle": "Who are our partners ?"
+  },
+
+  "footer": {
+    "links1": "Home",
+    "links2": "Who are we",
+    "links3": "Our dna",
+    "links4": "our activities",
+    "links5": "Our events",
+    "links6": "Our Team",
+    "links7": "Testimonials",
+    "links8": "Contact",
+
+    "terms": "All rights reserved."
   }
 }
